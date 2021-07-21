@@ -11,5 +11,5 @@
 
 프로젝트 핵심 코드
 ```oython
-print(hello)
+print("hello")
 ```
