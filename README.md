@@ -2,11 +2,14 @@
 ===
 인삿말
 
-표지부제목
----
-ㅇ
+# 참여인원
 
-# hello
+- 1 : 기획 및 아이디어 설계
+- 2 : 기능코딩
+- 3 
+- 4
+
+
 ## hi
 ### asaaaaaaaaaaaaaaaaaaa
 #### eeeeeeeeeeeeeeeeew
