@@ -10,6 +10,6 @@
 - 4
 
 프로젝트 핵심 코드
-```oython
+```python
 print("hello")
 ```
