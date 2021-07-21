@@ -16,3 +16,6 @@ print("hello")
 
 # 프로젝트 관련이미지
 ![이미지설명](./image/image.jpg)
+
+# 프로젝트 관련 영상
+[유튜브 영상 바로가기](./https://www.donga.com/news/It/article/all/20210720/108051435/2)
